@@ -53,7 +53,7 @@ CFLAGS = -lcsfml-graphics -lcsfml-system -lcsfml-audio -lcsfml-window -lm
 
 NAME = libmy.a
 
-NAME2 = my_paint
+NAME2 = portalpaint
 
 OBJ = $(LIB:.c=.o)
 
